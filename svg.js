@@ -48,7 +48,7 @@ Example.svg = function() {
         };
 
         ([
-            './svg/iconmonstr-check-mark-8-icon.svg', 
+            'org.svg', 
             './svg/iconmonstr-paperclip-2-icon.svg',
             './svg/iconmonstr-puzzle-icon.svg',
             './svg/iconmonstr-user-icon.svg'
